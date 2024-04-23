@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Allows us to connect to my server using the private key with user ubuntu
-ssh -i ~/.ssh/ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCukUv19bZaR+0c/HJ2ma4Rq9j2lcf8wO9eNqzNJgZcPq13pLAgkS3nGOH4uQASLqUuffUE5VlhzAYw4qG6BQQZ4nP4Mds0boQSRFwe8/Hn2zXaWgQtmQNX7avTrQM/N+x3jseI4ulvPApepMMP6MognEEalJQCDrUFSZINhab5PW6AykC+LygHUS97NI8Np8VtHG93GTOA5aZPHbZ8pD5yp5zV1n4aMi3ooll9cVzqe/ho8gwVjl4TWRADRtZ0fw0nguTk4TU1BNtA/AHWfqOIZNOsO+K0SaF2XIjsJsb6a2Ji4zdOwQe8rktq47ox4dc/W91+zDkCMYsEc349o8ibcYLRNJjZROg9G+s7JNaPd5ZZLbu8D1pUb72kQtWkwTUvgiLOsVMqEbKSnqKzGJmVV+04igVDWwKck4G0qONwMZ9/QVny3kh0xvJJcKrebheH5CRb7bTbuHIbwKeCRAlFmllGK3uNPZotC51/YByEN8zmFJNHjoyHaitL0gYKuC0= hayya@Hayyalu ubuntu@54.173.228.141
+ssh -i ~/.ssh/ssh-rsa ubuntu@18.235.249.46
 
